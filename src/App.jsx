@@ -1,6 +1,6 @@
 
 import './App.css'
-import Header from './asoslar/header'
+
 
 function App() {
 
